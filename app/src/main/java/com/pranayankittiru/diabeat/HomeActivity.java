@@ -68,15 +68,15 @@ public class HomeActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_profile) {
-            // Handle the camera action
+            // TODO Switch to user profile
         } else if (id == R.id.nav_settings) {
-
+            // TODO Switch to user settings
         } else if (id == R.id.nav_dashboard) {
-            Intent userDashboard = new Intent(HomeActivity.this, DashboardActivity.class);
-            startActivity(userDashboard);
+            //Intent userDashboard = new Intent(HomeActivity.this, DashboardActivity.class);
+            //startActivity(userDashboard);
 
         } else if (id == R.id.nav_logout) {
-
+            // TODO Logout user
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
