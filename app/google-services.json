@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "871609949835",
+    "firebase_url": "https://diabeat-2e39b.firebaseio.com",
+    "project_id": "diabeat-2e39b",
+    "storage_bucket": "diabeat-2e39b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871609949835:android:f4c000926b1b4862",
+        "android_client_info": {
+          "package_name": "com.pranayankittiru.diabeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871609949835-dapmq0qhv71r7ml1dpgotdfj13hssv1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranayankittiru.diabeat",
+            "certificate_hash": "bb1f689961a95907698081ddf0d91948b737cd0b"
+          }
+        },
+        {
+          "client_id": "871609949835-203o21rj3i4e3bf9l3a2s98seqg0h8an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93lBfAVL_pn9MDv_HuXOoblM9mFzeLlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871609949835-203o21rj3i4e3bf9l3a2s98seqg0h8an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
