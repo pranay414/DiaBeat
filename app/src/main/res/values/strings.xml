@@ -12,7 +12,7 @@
     <string name="error_incorrect_password">This password is incorrect</string>
     <string name="error_field_required">This field is required</string>
     <string name="title_text">DiaBeat</string>
-    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_home">DiaBeat</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -22,4 +22,7 @@
     <string name="tab_text_1">Report</string>
     <string name="tab_text_2">Diet</string>
     <string name="section_format">Hello World from section: Dashboard %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
